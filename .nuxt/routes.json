@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\OSPanel\\\\domains\\\\it-unity\\\\__mirabbos\\\\nuxt-seo-testing\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_3c6c66d3"
+  },
+  {
+    "name": "info",
+    "path": "/info",
+    "component": "E:\\\\OSPanel\\\\domains\\\\it-unity\\\\__mirabbos\\\\nuxt-seo-testing\\\\pages\\\\info.vue",
+    "chunkName": "pages/info",
+    "_name": "_385b5358"
+  },
+  {
+    "name": "seo",
+    "path": "/seo",
+    "component": "E:\\\\OSPanel\\\\domains\\\\it-unity\\\\__mirabbos\\\\nuxt-seo-testing\\\\pages\\\\seo.vue",
+    "chunkName": "pages/seo",
+    "_name": "_5b6be9ba"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\OSPanel\\\\domains\\\\it-unity\\\\__mirabbos\\\\nuxt-seo-testing\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5c244198"
+  }
+]
